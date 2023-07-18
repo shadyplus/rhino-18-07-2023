@@ -19,6 +19,7 @@ p {
     font: 500 18px/24px "Noto Serif KR",fallback-local;
     font-size: 24px;
     font-family: sans-serif;
+    line-height: 1.3;
 }
 
 
